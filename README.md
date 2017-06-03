@@ -9,7 +9,7 @@ Self-Driving Car Engineer Nanodegree Program
 ## Dependencies
 
 * cmake >= 3.5
- * Used installer: cmake-3.7.2-win64-x64.msi
+  * Used installer: cmake-3.7.2-win64-x64.msi
 * make >= 4.1
   * Used installer: make-3.81.exe
 * gcc/g++ >= 5.4
